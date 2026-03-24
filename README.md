@@ -1,163 +1,176 @@
-# Hi, I'm Dhavan Reddy Vaka 👋
+<div align="center">
 
-## Data Analyst | SQL | Python | Tableau | Power BI | ETL | Business Intelligence
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0d12,50:1a0a2e,100:2d1b69&height=220&section=header&text=Sahith%20Belide&fontSize=58&fontColor=5b9bd5&fontAlignY=40&desc=Data%20Analyst&descAlignY=62&descColor=a78bfa&animation=fadeIn" width="100%"/>
 
-I am a Data Analyst with **5 years of experience** leveraging **SQL, Python, and BI tools** to deliver data-driven insights and improve business performance. I have experience in building **scalable dashboards, automated reporting systems, KPI frameworks, and data pipelines** that support better decision-making across business functions.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=5b9bd5&center=true&vCenter=true&width=500&lines=5+Years+of+Data+Analytics+Experience;SQL+%7C+Python+%7C+Power+BI+%7C+Tableau;Turning+Data+into+Business+Decisions;Open+to+Work+%F0%9F%9A%80" alt="Typing SVG" />
 
-I have worked on analytics, reporting, dashboard development, data validation, ETL processes, and performance analysis in fast-paced business environments. I enjoy turning raw data into meaningful insights and building solutions that create measurable business value.
+<br/>
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a0d12?style=for-the-badge&logo=linkedin&logoColor=5b9bd5)](https://linkedin.com)
+[![Email](https://img.shields.io/badge/Gmail-0a0d12?style=for-the-badge&logo=gmail&logoColor=5b9bd5)](mailto:belidesahith18@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-0a0d12?style=for-the-badge&logo=github&logoColor=5b9bd5)](https://github.com)
+[![Phone](https://img.shields.io/badge/+1_(989)_621--2046-0a0d12?style=for-the-badge&logoColor=5b9bd5)](#)
+[![Location](https://img.shields.io/badge/Michigan,_USA-0a0d12?style=for-the-badge&logoColor=5b9bd5)](#)
 
-## About Me
+<br/>
 
-- Data Analyst with experience in **business intelligence, reporting, data visualization, and analytics**
-- Skilled in working with **large datasets**, identifying trends, and delivering actionable insights
-- Experienced in **dashboard development, KPI tracking, data cleaning, ETL, and performance reporting**
-- Worked at **Accenture** and currently working at **Gabriel AI**
-- Pursuing a **Master’s in Information Systems** at **Central Michigan University**
-- Interested in **Data Analytics, Business Intelligence, Machine Learning, and Data Visualization**
+![Years](https://img.shields.io/badge/Experience-5%20Years-a78bfa?style=for-the-badge&labelColor=0a0d12)
+&nbsp;
+![Status](https://img.shields.io/badge/Open%20to%20Work-5b9bd5?style=for-the-badge&labelColor=0a0d12)
+&nbsp;
+![Degree](https://img.shields.io/badge/M.S.-Business%20Data%20Analytics-7c3aed?style=for-the-badge&labelColor=0a0d12)
 
----
+</div>
 
-## Core Skills
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0d12,100:1a0a2e&height=6" width="100%"/>
 
-### Programming & Databases
-- **Python**
-- **SQL**
-- PostgreSQL
-- MS SQL Server
-- Pandas
-- NumPy
-- Matplotlib
-- Scikit-learn
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:1a0a2e,100:0a0d12&height=60&text=◈%20About%20Me&fontSize=22&fontColor=a78bfa&fontAlignY=65&textBg=false" width="100%"/>
 
-### Data Visualization & BI
-- **Tableau**
-- **Power BI**
-- Dashboard Development
-- KPI Tracking
-- Data Storytelling
-- Advanced MS Excel
-- Pivot Tables
-- VLOOKUP
-- INDEX/MATCH
-- Performance Reporting
-- Ad-hoc Reporting
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0d12,100:0d0b1a&height=3" width="100%"/>
 
-### Data Analytics & Engineering
-- Data Cleaning
-- Data Wrangling
-- Data Validation
-- Data Modeling
-- **ETL**
-- Data Pipelines
-- Data Transformation
-- Data Integration
-- Data Reconciliation
-- Report Automation
-- Query Optimization
-- Data Warehousing
+> *Turning raw, complex data into strategies that actually move businesses forward.*
 
-### Statistical & Analytical Techniques
-- Exploratory Data Analysis (EDA)
-- Statistical Analysis
-- Regression
-- Classification
-- Clustering
-- Forecasting
-- Hypothesis Testing
-- Predictive Modeling
-- Model Evaluation
+Data Analyst with **5 years of experience** spanning enterprise consulting at **Accenture** and AI-first product work at **Gabriel AI**. I design the systems that make data usable — from optimized SQL pipelines and automated reporting to executive dashboards that tell the real story at a glance.
 
-### Tools & Technologies
-- Snowflake
-- Git
-- Streamlit
-- AWS
+Currently deepening my expertise in Business Data Analytics through an **M.S. at Central Michigan University**, with a focus on predictive modeling and scalable data architecture.
 
-### Business & Analytical Skills
-- Business Intelligence
-- KPI Development
-- Performance Analysis
-- Stakeholder Management
-- Requirement Gathering
-- Business Requirements Analysis
-- Data-Driven Decision Making
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0a0d12,100:1a0a2e&height=60&text=◈%20Tech%20Stack&fontSize=22&fontColor=a78bfa&fontAlignY=65&textBg=false" width="100%"/>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0d12,100:0d0b1a&height=3" width="100%"/>
 
-## Professional Experience
+<div align="center">
 
-### Data Analyst | Gabriel AI
-**Jul 2024 – Present**
+| Layer | Technologies |
+|:---|:---|
+| **Languages** | ![Python](https://img.shields.io/badge/Python-0a0d12?style=flat-square&logo=python&logoColor=5b9bd5) ![SQL](https://img.shields.io/badge/SQL-0a0d12?style=flat-square&logo=postgresql&logoColor=a78bfa) |
+| **Libraries** | ![Pandas](https://img.shields.io/badge/Pandas-0a0d12?style=flat-square&logo=pandas&logoColor=5b9bd5) ![NumPy](https://img.shields.io/badge/NumPy-0a0d12?style=flat-square&logo=numpy&logoColor=a78bfa) ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-0a0d12?style=flat-square&logo=scikitlearn&logoColor=5b9bd5) ![Matplotlib](https://img.shields.io/badge/Matplotlib-0a0d12?style=flat-square&logo=plotly&logoColor=a78bfa) |
+| **BI & Visualization** | ![Tableau](https://img.shields.io/badge/Tableau-0a0d12?style=flat-square&logo=tableau&logoColor=5b9bd5) ![PowerBI](https://img.shields.io/badge/Power_BI-0a0d12?style=flat-square&logo=powerbi&logoColor=a78bfa) ![Excel](https://img.shields.io/badge/Excel-0a0d12?style=flat-square&logo=microsoftexcel&logoColor=5b9bd5) ![Streamlit](https://img.shields.io/badge/Streamlit-0a0d12?style=flat-square&logo=streamlit&logoColor=a78bfa) |
+| **Databases** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0a0d12?style=flat-square&logo=postgresql&logoColor=5b9bd5) ![MSSQLServer](https://img.shields.io/badge/MS_SQL-0a0d12?style=flat-square&logo=microsoftsqlserver&logoColor=a78bfa) ![Snowflake](https://img.shields.io/badge/Snowflake-0a0d12?style=flat-square&logo=snowflake&logoColor=5b9bd5) |
+| **Cloud & Tools** | ![AWS](https://img.shields.io/badge/AWS-0a0d12?style=flat-square&logo=amazonaws&logoColor=a78bfa) ![Git](https://img.shields.io/badge/Git-0a0d12?style=flat-square&logo=git&logoColor=5b9bd5) |
 
-- Designed and implemented scalable KPI frameworks and real-time dashboards to improve business visibility and decision-making
-- Performed advanced data analysis using SQL and Python on large datasets
-- Built automated reporting pipelines to reduce manual effort and improve reporting consistency
-- Collaborated with stakeholders to define business metrics and deliver actionable insights
-- Conducted trend analysis, forecasting, and performance reporting to support strategic decisions
-- Identified data gaps and improved data quality, validation, and reliability across systems
+</div>
 
-### Data Analyst | Accenture
-**Jun 2021 – Jun 2024**
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:1a0a2e,100:0a0d12&height=60&text=◈%20Work%20Experience&fontSize=22&fontColor=a78bfa&fontAlignY=65&textBg=false" width="100%"/>
 
-- Analyzed large-scale business data using SQL, Python, and Excel to support reporting and analytics initiatives
-- Developed dashboards and reports to track KPIs and business performance
-- Performed data cleaning, transformation, and validation across multiple data sources
-- Built SQL queries with joins, aggregations, and subqueries for analytical reporting
-- Supported ETL workflows, ad-hoc reporting, and business intelligence needs
-- Delivered insights that supported operational improvements and business decision-making
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0d12,100:0d0b1a&height=3" width="100%"/>
 
----
+### Data Analyst &nbsp;—&nbsp; Gabriel AI &nbsp;&nbsp;`Nov 2024 – Present`
 
-## Featured Projects
+> Building intelligent data infrastructure at an AI-first company.
 
-### Smart Shopping Cart Analytics
-Built a smart shopping cart solution using **Python, AWS, and Streamlit** to improve checkout efficiency and support real-time product tracking.
+| Contribution | Impact |
+|:---|:---|
+| Designed scalable KPI frameworks + real-time dashboards (Tableau / Power BI) | ⬇ **30%+** reduction in decision-making time |
+| Built and automated end-to-end reporting pipelines | ⬇ **40%** reduction in manual effort |
+| Advanced SQL + Python analysis on large-scale datasets | Enabled cross-unit data strategies |
+| Trend analysis, cohort studies & business forecasting | Identified key growth opportunities |
+| Partnered with engineering on data instrumentation gaps | Improved data accuracy org-wide |
+| Enabled self-service analytics through dashboard training | Reduced dependency on data teams |
+| Delivered monthly & quarterly reports for leadership | Drove executive-level decisions |
 
-### Neural Image Caption Generator
-Developed a deep learning-based project that generates human-like captions for images using machine learning techniques.
+<br/>
 
-### Face Recognition Attendance System
-Built an AI-based attendance system focused on improving automation and accuracy. This project also contributed to research publication work.
+### Data Analyst &nbsp;—&nbsp; Accenture &nbsp;&nbsp;`Jun 2021 – Jun 2024`
 
----
+> Delivering business intelligence and reporting for enterprise clients at scale.
 
-## Certifications
+| Contribution | Impact |
+|:---|:---|
+| Built interactive dashboards tracking enterprise KPIs | Improved reporting efficiency & visibility |
+| Wrote complex SQL — joins, aggregations, subqueries | Powered operational & analytical reporting |
+| Automated recurring reports via Python & Excel | Reduced manual workload significantly |
+| Conducted EDA & statistical analysis | Surfaced trends, anomalies & opportunities |
+| Assisted in ETL pipeline and data integration work | Ensured smooth cross-system data flow |
+| Delivered ad-hoc analyses under tight deadlines | Supported strategic initiatives |
 
-- Google Data Analytics Professional Certificate
-- AWS Cloud Technical Essentials
-- Data Visualization & Dashboard Essentials
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0a0d12,100:1a0a2e&height=60&text=◈%20Education&fontSize=22&fontColor=a78bfa&fontAlignY=65&textBg=false" width="100%"/>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0d12,100:0d0b1a&height=3" width="100%"/>
 
-## Education
+<div align="center">
 
-**Master’s in Information Systems**  
-Central Michigan University
+![CMU](https://img.shields.io/badge/Central_Michigan_University-0a0d12?style=for-the-badge&logo=academia&logoColor=a78bfa)
 
-**B.Tech in Electronics & Computer Engineering**  
-Amrita Vishwa Vidyapeetham
+**M.S. Information Systems — Business Data Analytics**
+`Aug 2024 – May 2026 (Expected)` &nbsp;·&nbsp; Mount Pleasant, MI
 
----
+</div>
 
-## What I’m Currently Working On
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:1a0a2e,100:0a0d12&height=60&text=◈%20Certifications&fontSize=22&fontColor=a78bfa&fontAlignY=65&textBg=false" width="100%"/>
 
-- Building end-to-end **data analytics projects**
-- Strengthening my portfolio in **SQL, Python, dashboards, and machine learning**
-- Improving reporting, visualization, and business analytics solutions
-- Expanding my knowledge in **cloud-based analytics and data engineering**
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0d12,100:0d0b1a&height=3" width="100%"/>
 
----
+<div align="center">
 
-## Connect With Me
+| Badge | Certification | Status |
+|:---:|:---|:---:|
+| ![Google](https://img.shields.io/badge/Google-0a0d12?style=flat-square&logo=google&logoColor=5b9bd5) | Google Data Analytics Professional Certificate | ✅ |
+| ![AWS](https://img.shields.io/badge/AWS-0a0d12?style=flat-square&logo=amazonaws&logoColor=a78bfa) | AWS Cloud Technical Essentials | ✅ |
+| ![Tableau](https://img.shields.io/badge/Viz-0a0d12?style=flat-square&logo=tableau&logoColor=5b9bd5) | Data Visualization & Dashboard Essentials | ✅ |
+| ![PowerBI](https://img.shields.io/badge/PowerBI-0a0d12?style=flat-square&logo=powerbi&logoColor=a78bfa) | Microsoft Power BI Data Analyst — PL-300 | 🔄 *In Progress* |
+| ![Snowflake](https://img.shields.io/badge/Snowflake-0a0d12?style=flat-square&logo=snowflake&logoColor=5b9bd5) | Snowflake SnowPro Core Certification | 🔄 *In Progress* |
 
-- **LinkedIn:** [Add your LinkedIn link]
-- **Email:** [Add your email]
-- **GitHub:** [Add your GitHub profile link]
+</div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0a0d12,100:1a0a2e&height=60&text=◈%20Skills%20Snapshot&fontSize=22&fontColor=a78bfa&fontAlignY=65&textBg=false" width="100%"/>
 
-## Profile Summary
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0d12,100:0d0b1a&height=3" width="100%"/>
 
-Data Analyst with 5 years of experience in **SQL, Python, Tableau, Power BI, ETL, dashboard development, and business intelligence**, focused on transforming data into actionable insights and business value.
+```python
+analyst = {
+    "name"         : "Sahith Belide",
+    "role"         : "Data Analyst",
+    "experience"   : "5 years",
+    "location"     : "Michigan, USA",
+
+    "analysis"     : ["EDA", "Regression", "Classification", "Clustering",
+                      "Forecasting", "Hypothesis Testing", "Predictive Modeling"],
+
+    "data_ops"     : ["ETL", "Data Modeling", "Data Validation", "Data Wrangling",
+                      "Query Optimization", "Data Warehousing", "Report Automation"],
+
+    "business"     : ["KPI Development", "Performance Analysis",
+                      "Stakeholder Management", "Data Storytelling",
+                      "Requirements Gathering", "Data-Driven Decision Making"],
+
+    "currently"    : "M.S. Business Data Analytics @ Central Michigan University",
+    "open_to"      : ["Full-time roles", "Freelance projects", "Collaborations"],
+}
+```
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:1a0a2e,100:0a0d12&height=60&text=◈%20GitHub%20Stats&fontSize=22&fontColor=a78bfa&fontAlignY=65&textBg=false" width="100%"/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0d12,100:0d0b1a&height=3" width="100%"/>
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=sahithbelide&show_icons=true&theme=dark_blue&hide_border=true&title_color=5b9bd5&icon_color=a78bfa&text_color=dde8f5&bg_color=0a0d12&ring_color=7c3aed&include_all_commits=true&count_private=true" />
+&nbsp;&nbsp;
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahithbelide&layout=compact&theme=dark_blue&hide_border=true&title_color=5b9bd5&text_color=dde8f5&bg_color=0a0d12&langs_count=6" />
+
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sahithbelide&theme=dark&hide_border=true&background=0a0d12&ring=5b9bd5&fire=a78bfa&currStreakLabel=5b9bd5&sideLabels=a78bfa&dates=dde8f5&stroke=7c3aed" />
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0a0d12,100:1a0a2e&height=60&text=◈%20Let's%20Connect&fontSize=22&fontColor=a78bfa&fontAlignY=65&textBg=false" width="100%"/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0d12,100:0d0b1a&height=3" width="100%"/>
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/belidesahith18@gmail.com-0a0d12?style=for-the-badge&logo=gmail&logoColor=5b9bd5)](mailto:belidesahith18@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0a0d12?style=for-the-badge&logo=linkedin&logoColor=a78bfa)](https://linkedin.com)
+
+<br/>
+
+*"The goal is to turn data into information, and information into insight."*
+
+<br/>
+
+![Visitor Count](https://komarev.com/ghpvc/?username=sahithbelide&color=7c3aed&style=flat-square&label=Profile+Views)
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2d1b69,50:1a0a2e,100:0a0d12&height=120&section=footer" width="100%"/>
