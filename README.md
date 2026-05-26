@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0d12,50:1a0a2e,100:2d1b69&height=220&section=header&text=Sahith%20Belide&fontSize=58&fontColor=5b9bd5&fontAlignY=40&desc=Data%20Analyst&descAlignY=62&descColor=a78bfa&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0d12,50:1a0a2e,100:2d1b69&height=220&section=header&text=Sahith%20Belide&fontSize=58&fontColor=5b9bd5&fontAlignY=40&desc=Senior%20AI%2FML%20Engineer&descAlignY=62&descColor=a78bfa&animation=fadeIn" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=5b9bd5&center=true&vCenter=true&width=500&lines=8%2B+Years+of+Data+Analytics+Experience;SQL+%7C+Python+%7C+Power+BI+%7C+Tableau;Turning+Data+into+Business+Decisions;Open+to+Work+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=5b9bd5&center=true&vCenter=true&width=650&lines=7%2B+Years+of+AI%2FML+Engineering+Experience;RAG+%7C+LLMs+%7C+Python+%7C+PySpark+%7C+FastAPI;Fraud+Detection+%7C+Data+Engineering+%7C+Cloud+Analytics;Building+Production-Focused+AI+Solutions" alt="Typing SVG" />
 
 <br/>
 
@@ -10,13 +10,11 @@
 [![Email](https://img.shields.io/badge/Gmail-0a0d12?style=for-the-badge&logo=gmail&logoColor=5b9bd5)](mailto:belidesahith18@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-0a0d12?style=for-the-badge&logo=github&logoColor=5b9bd5)](https://github.com)
 [![Phone](https://img.shields.io/badge/+1_(989)_621--2046-0a0d12?style=for-the-badge&logoColor=5b9bd5)](#)
-[![Location](https://img.shields.io/badge/Michigan,_USA-0a0d12?style=for-the-badge&logoColor=5b9bd5)](#)
+[![Location](https://img.shields.io/badge/United_States-0a0d12?style=for-the-badge&logoColor=5b9bd5)](#)
 
 <br/>
 
-![Years](https://img.shields.io/badge/Experience-8%2B%20Years-a78bfa?style=for-the-badge&labelColor=0a0d12)
-&nbsp;
-![Status](https://img.shields.io/badge/Open%20to%20Work-5b9bd5?style=for-the-badge&labelColor=0a0d12)
+![Years](https://img.shields.io/badge/Experience-7%2B%20Years-a78bfa?style=for-the-badge&labelColor=0a0d12)
 &nbsp;
 ![Degree](https://img.shields.io/badge/M.S.-Information%20Systems-7c3aed?style=for-the-badge&labelColor=0a0d12)
 
@@ -28,11 +26,11 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0d12,100:0d0b1a&height=3" width="100%"/>
 
-> *Turning raw, complex data into strategies that actually move businesses forward.*
+> *Building practical AI systems that turn complex data into faster decisions, smarter workflows, and measurable business value.*
 
-Data Analyst with **8+ years of experience** spanning early-career analytics at **ESAOFT Labs**, enterprise consulting at **Accenture**, and AI-first product work at **Gabriel AI**. I design the systems that make data usable — from optimized SQL pipelines and automated reporting to executive dashboards that tell the real story at a glance.
+Senior AI/ML Engineer with **7+ years of experience** building production-focused **machine learning, Generative AI, data engineering, and cloud-based analytics solutions** across insurance, banking, and pharmaceutical domains. I work on scalable AI platforms, RAG workflows, fraud detection systems, ETL pipelines, automation solutions, and decision-support tools using **Python, PySpark, SQL, FastAPI, LangChain, AWS, Snowflake, Kafka, and OpenSearch**.
 
-Currently deepening my expertise in **Information Systems** through an **M.S. at Central Michigan University**, with a focus on predictive modeling, business intelligence, and scalable data architecture.
+My work focuses on delivering enterprise-ready AI solutions that improve operational efficiency, reduce manual effort, strengthen data quality, and support business decision-making across technical and non-technical teams.
 
 <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0a0d12,100:1a0a2e&height=60&text=◈%20Tech%20Stack&fontSize=22&fontColor=a78bfa&fontAlignY=65&textBg=false" width="100%"/>
 
@@ -42,11 +40,13 @@ Currently deepening my expertise in **Information Systems** through an **M.S. at
 
 | Layer | Technologies |
 |:---|:---|
-| **Languages** | ![Python](https://img.shields.io/badge/Python-0a0d12?style=flat-square&logo=python&logoColor=5b9bd5) ![SQL](https://img.shields.io/badge/SQL-0a0d12?style=flat-square&logo=postgresql&logoColor=a78bfa) ![R](https://img.shields.io/badge/R-0a0d12?style=flat-square&logo=r&logoColor=5b9bd5) |
-| **Libraries** | ![Pandas](https://img.shields.io/badge/Pandas-0a0d12?style=flat-square&logo=pandas&logoColor=5b9bd5) ![NumPy](https://img.shields.io/badge/NumPy-0a0d12?style=flat-square&logo=numpy&logoColor=a78bfa) ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-0a0d12?style=flat-square&logo=scikitlearn&logoColor=5b9bd5) ![Matplotlib](https://img.shields.io/badge/Matplotlib-0a0d12?style=flat-square&logo=plotly&logoColor=a78bfa) ![Jupyter](https://img.shields.io/badge/Jupyter-0a0d12?style=flat-square&logo=jupyter&logoColor=5b9bd5) |
-| **BI & Visualization** | ![Tableau](https://img.shields.io/badge/Tableau-0a0d12?style=flat-square&logo=tableau&logoColor=5b9bd5) ![PowerBI](https://img.shields.io/badge/Power_BI-0a0d12?style=flat-square&logo=powerbi&logoColor=a78bfa) ![Excel](https://img.shields.io/badge/Excel-0a0d12?style=flat-square&logo=microsoftexcel&logoColor=5b9bd5) ![Streamlit](https://img.shields.io/badge/Streamlit-0a0d12?style=flat-square&logo=streamlit&logoColor=a78bfa) |
-| **Databases** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0a0d12?style=flat-square&logo=postgresql&logoColor=5b9bd5) ![MSSQLServer](https://img.shields.io/badge/MS_SQL-0a0d12?style=flat-square&logo=microsoftsqlserver&logoColor=a78bfa) ![Snowflake](https://img.shields.io/badge/Snowflake-0a0d12?style=flat-square&logo=snowflake&logoColor=5b9bd5) ![BigQuery](https://img.shields.io/badge/BigQuery-0a0d12?style=flat-square&logo=googlebigquery&logoColor=a78bfa) |
-| **Cloud & Tools** | ![AWS](https://img.shields.io/badge/AWS-0a0d12?style=flat-square&logo=amazonaws&logoColor=a78bfa) ![Git](https://img.shields.io/badge/Git-0a0d12?style=flat-square&logo=git&logoColor=5b9bd5) |
+| **Programming & APIs** | ![Python](https://img.shields.io/badge/Python-0a0d12?style=flat-square&logo=python&logoColor=5b9bd5) ![SQL](https://img.shields.io/badge/SQL-0a0d12?style=flat-square&logo=postgresql&logoColor=a78bfa) ![JavaScript](https://img.shields.io/badge/JavaScript-0a0d12?style=flat-square&logo=javascript&logoColor=5b9bd5) ![FastAPI](https://img.shields.io/badge/FastAPI-0a0d12?style=flat-square&logo=fastapi&logoColor=a78bfa) ![Flask](https://img.shields.io/badge/Flask-0a0d12?style=flat-square&logo=flask&logoColor=5b9bd5) |
+| **Machine Learning** | ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-0a0d12?style=flat-square&logo=scikitlearn&logoColor=5b9bd5) ![XGBoost](https://img.shields.io/badge/XGBoost-0a0d12?style=flat-square&logoColor=a78bfa) ![PyTorch](https://img.shields.io/badge/PyTorch-0a0d12?style=flat-square&logo=pytorch&logoColor=5b9bd5) ![MLflow](https://img.shields.io/badge/MLflow-0a0d12?style=flat-square&logo=mlflow&logoColor=a78bfa) |
+| **Generative AI & NLP** | ![LLMs](https://img.shields.io/badge/LLMs-0a0d12?style=flat-square&logo=openai&logoColor=5b9bd5) ![RAG](https://img.shields.io/badge/RAG-0a0d12?style=flat-square&logoColor=a78bfa) ![LangChain](https://img.shields.io/badge/LangChain-0a0d12?style=flat-square&logo=chainlink&logoColor=5b9bd5) ![OpenAI](https://img.shields.io/badge/OpenAI-0a0d12?style=flat-square&logo=openai&logoColor=a78bfa) |
+| **Data Engineering** | ![PySpark](https://img.shields.io/badge/PySpark-0a0d12?style=flat-square&logo=apachespark&logoColor=5b9bd5) ![Spark](https://img.shields.io/badge/Apache_Spark-0a0d12?style=flat-square&logo=apachespark&logoColor=a78bfa) ![Kafka](https://img.shields.io/badge/Kafka-0a0d12?style=flat-square&logo=apachekafka&logoColor=5b9bd5) ![Airflow](https://img.shields.io/badge/Airflow-0a0d12?style=flat-square&logo=apacheairflow&logoColor=a78bfa) ![Snowflake](https://img.shields.io/badge/Snowflake-0a0d12?style=flat-square&logo=snowflake&logoColor=5b9bd5) |
+| **Cloud & MLOps** | ![AWS](https://img.shields.io/badge/AWS-0a0d12?style=flat-square&logo=amazonaws&logoColor=a78bfa) ![Docker](https://img.shields.io/badge/Docker-0a0d12?style=flat-square&logo=docker&logoColor=5b9bd5) ![Kubernetes](https://img.shields.io/badge/Kubernetes-0a0d12?style=flat-square&logo=kubernetes&logoColor=a78bfa) ![Jenkins](https://img.shields.io/badge/Jenkins-0a0d12?style=flat-square&logo=jenkins&logoColor=5b9bd5) ![Terraform](https://img.shields.io/badge/Terraform-0a0d12?style=flat-square&logo=terraform&logoColor=a78bfa) |
+| **Search & Monitoring** | ![OpenSearch](https://img.shields.io/badge/OpenSearch-0a0d12?style=flat-square&logo=opensearch&logoColor=5b9bd5) ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-0a0d12?style=flat-square&logo=elasticsearch&logoColor=a78bfa) ![Prometheus](https://img.shields.io/badge/Prometheus-0a0d12?style=flat-square&logo=prometheus&logoColor=5b9bd5) ![Grafana](https://img.shields.io/badge/Grafana-0a0d12?style=flat-square&logo=grafana&logoColor=a78bfa) |
+| **Analytics & Visualization** | ![Tableau](https://img.shields.io/badge/Tableau-0a0d12?style=flat-square&logo=tableau&logoColor=5b9bd5) ![PowerBI](https://img.shields.io/badge/Power_BI-0a0d12?style=flat-square&logo=powerbi&logoColor=a78bfa) ![Excel](https://img.shields.io/badge/Excel-0a0d12?style=flat-square&logo=microsoftexcel&logoColor=5b9bd5) ![Pandas](https://img.shields.io/badge/Pandas-0a0d12?style=flat-square&logo=pandas&logoColor=a78bfa) ![NumPy](https://img.shields.io/badge/NumPy-0a0d12?style=flat-square&logo=numpy&logoColor=5b9bd5) |
 
 </div>
 
@@ -54,51 +54,69 @@ Currently deepening my expertise in **Information Systems** through an **M.S. at
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0d12,100:0d0b1a&height=3" width="100%"/>
 
-### Data Analyst &nbsp;—&nbsp; Gabriel AI &nbsp;&nbsp;`Jul 2024 – Present`
+### Senior ML Engineer &nbsp;—&nbsp; National General Insurance &nbsp;&nbsp;`Jul 2024 – Present`
 
-> Building intelligent data infrastructure at an AI-first company.
+> Building AI-powered claims search, decision-support, and fraud-risk intelligence workflows.
 
 | Contribution | Impact |
 |:---|:---|
-| Designed scalable KPI frameworks + real-time dashboards (Tableau / Power BI) | Improved business visibility and faster decision-making |
-| Performed advanced analysis using SQL, Python, Pandas, and NumPy | Identified trends, performance gaps, and growth opportunities |
-| Built and automated reporting pipelines using Python, Pandas, and SQL | Improved reporting consistency across teams |
-| Queried and validated data from Snowflake and SQL-based systems | Strengthened reporting accuracy and BI support |
-| Conducted trend analysis, forecasting, and performance reporting | Supported monthly and quarterly business reviews |
-| Partnered with stakeholders on metric definition and reporting needs | Aligned analytics with operational goals |
-| Improved data instrumentation, availability, and quality | Enhanced decision-ready data across systems |
-| Enabled self-service analytics through dashboard training | Reduced dependency on data teams |
-| Supported analytics workflows in an AWS-enabled environment | Strengthened cloud-based reporting solutions |
+| Built RAG-based document retrieval workflows using LangChain, OpenSearch, and Azure OpenAI | Improved internal claims search relevance by 28% during evaluation testing |
+| Developed FastAPI services for claims summarization and policy-assistance workflows | Reduced manual document review effort by approximately 35% for selected scenarios |
+| Created ingestion pipelines for SharePoint, ServiceNow, Guidewire extracts, and AWS S3 documents | Supported structured and unstructured claims data processing |
+| Improved retrieval quality through semantic chunking, metadata tagging, and embeddings | Strengthened relevance for claims, policy, and underwriting information |
+| Supported fraud-risk analysis with claim-level features from historical claims and policy data | Enabled downstream ML workflows for claims-risk insights |
+| Assisted with LLM evaluation through prompt reviews, response scoring, and hallucination checks | Improved answer consistency before business-user validation |
+| Configured MLflow, Grafana, and structured logging dashboards | Tracked latency, failed requests, and retrieval quality trends |
+| Collaborated with claims, underwriting, product, and engineering teams | Delivered practical AI workflows aligned with insurance requirements |
 
 <br/>
 
-### Data Analyst &nbsp;—&nbsp; Accenture &nbsp;&nbsp;`Jun 2021 – Jun 2024`
+### Machine Learning Engineer &nbsp;—&nbsp; USAA Bank &nbsp;&nbsp;`Feb 2023 – Jun 2024`
 
-> Delivering business intelligence and reporting for enterprise clients at scale.
+> Developing fraud detection, transaction-risk analytics, and real-time banking ML workflows.
 
 | Contribution | Impact |
 |:---|:---|
-| Built interactive dashboards tracking enterprise KPIs | Improved reporting efficiency and stakeholder visibility |
-| Wrote complex SQL using joins, aggregations, and subqueries | Powered operational and analytical reporting |
-| Automated recurring reports via Python and Excel | Reduced manual workload and improved consistency |
-| Conducted EDA and statistical analysis | Surfaced trends, anomalies, and process improvement opportunities |
-| Supported ETL pipelines and data integration workflows | Ensured smooth cross-system data flow |
-| Delivered ad-hoc analyses under tight deadlines | Supported business reviews and strategic initiatives |
+| Developed fraud detection and anomaly detection models using Python, Scikit-learn, XGBoost, and PySpark | Improved suspicious transaction identification by 22% during validation testing |
+| Built Kafka and Spark-based streaming workflows for transaction events | Supported near real-time fraud monitoring across banking systems |
+| Created feature engineering pipelines using Snowflake, SQL, and PySpark | Combined customer activity, transaction behavior, and historical fraud indicators |
+| Deployed ML workflows through AWS SageMaker and Docker-based services | Improved repeatability of model training and inference processes |
+| Tuned model thresholds across fraud and non-fraud datasets | Reduced false-positive review volume by approximately 18% |
+| Developed FastAPI endpoints for fraud-risk scores and model outputs | Exposed ML results to internal applications and analytics dashboards |
+| Built Power BI and Grafana dashboards | Tracked fraud trends, transaction volume, and model-performance metrics |
+| Worked with fraud operations, compliance, risk, and engineering teams | Supported secure ML delivery and validation processes |
 
 <br/>
 
-### Junior Data Analyst &nbsp;—&nbsp; ESAOFT Labs &nbsp;&nbsp;`Jun 2018 – May 2021`
+### Data Engineer &nbsp;—&nbsp; Sun Pharmaceutical Industries &nbsp;&nbsp;`Oct 2020 – Jun 2022`
 
-> Building a strong analytics foundation through reporting, data validation, and dashboard support.
+> Building data engineering and reporting platforms for pharma supply chain, manufacturing, and inventory analytics.
 
 | Contribution | Impact |
 |:---|:---|
-| Collected, cleaned, and validated structured data from multiple sources | Improved reporting accuracy and consistency |
-| Performed data analysis using SQL, Python, and Excel | Identified patterns, trends, and operational insights |
-| Developed dashboards and KPI reports for business teams | Improved visibility into business performance |
-| Assisted with SQL query building and data extraction | Supported recurring and ad-hoc reporting needs |
-| Automated repetitive reporting tasks using Excel and Python | Reduced manual effort and turnaround time |
-| Prepared weekly and monthly reports for management | Supported timely performance monitoring |
+| Designed and maintained ETL/ELT pipelines using Python, PySpark, SQL, and Apache Spark | Supported manufacturing, inventory, and supply chain datasets |
+| Built and optimized data models in Snowflake and Oracle | Improved recurring reporting query performance by approximately 30% |
+| Integrated SAP, ERP, manufacturing databases, and third-party files | Centralized reporting layers for business teams |
+| Implemented validation and reconciliation checks | Reduced reporting mismatches by approximately 25% |
+| Automated data-refresh and batch-processing workflows using Airflow and Jenkins | Reduced manual reporting effort by over 10 hours per week |
+| Developed SQL queries, stored procedures, and transformation logic | Supported KPI reporting for supply chain and manufacturing teams |
+| Supported Power BI and Tableau dashboards | Improved visibility into inventory movement, production trends, and sales analytics |
+| Troubleshot pipeline failures and documented ETL processes | Strengthened production support and workflow reliability |
+
+<br/>
+
+### Python Developer &nbsp;—&nbsp; HSBC &nbsp;&nbsp;`Nov 2018 – Sep 2020`
+
+> Developing Python automation, reporting workflows, and backend support for banking operations.
+
+| Contribution | Impact |
+|:---|:---|
+| Developed Python scripts and backend modules for transaction processing and workflow support | Improved operational automation and reporting support |
+| Built automated data extraction and reporting workflows using Python, SQL, and Pandas | Reduced manual report preparation effort by approximately 20% |
+| Designed and optimized REST APIs for internal banking applications | Supported secure integration between applications and reporting systems |
+| Wrote SQL queries, stored procedures, and validation checks in Oracle | Improved financial reporting accuracy |
+| Automated scheduled batch-processing jobs using Shell scripting and Jenkins | Improved recurring workflow reliability |
+| Worked with QA, support, and business teams to troubleshoot production issues | Improved output validation and application stability |
 
 <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0a0d12,100:1a0a2e&height=60&text=◈%20Education&fontSize=22&fontColor=a78bfa&fontAlignY=65&textBg=false" width="100%"/>
 
@@ -108,22 +126,23 @@ Currently deepening my expertise in **Information Systems** through an **M.S. at
 
 ![CMU](https://img.shields.io/badge/Central_Michigan_University-0a0d12?style=for-the-badge&logo=academia&logoColor=a78bfa)
 
-**M.S. Information Systems**
-`Aug 2024 – May 2026 (Expected)` &nbsp;·&nbsp; Mount Pleasant, MI
+**Master's in Information Systems**  
+`GPA: 3.71 / 4.0`
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:1a0a2e,100:0a0d12&height=60&text=◈%20Certifications&fontSize=22&fontColor=a78bfa&fontAlignY=65&textBg=false" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:1a0a2e,100:0a0d12&height=60&text=◈%20Project%20Highlights&fontSize=22&fontColor=a78bfa&fontAlignY=65&textBg=false" width="100%"/>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0d12,100:0d0b1a&height=3" width="100%"/>
 
 <div align="center">
 
-| Badge | Certification | Status |
-|:---:|:---|:---:|
-| ![PowerBI](https://img.shields.io/badge/PowerBI-0a0d12?style=flat-square&logo=powerbi&logoColor=a78bfa) | Microsoft Certified: Power BI Data Analyst Associate (PL-300) | ✅ |
-| ![Google](https://img.shields.io/badge/Google-0a0d12?style=flat-square&logo=google&logoColor=5b9bd5) | Google Data Analytics Professional Certificate | ✅ |
-| ![AWS](https://img.shields.io/badge/AWS-0a0d12?style=flat-square&logo=amazonaws&logoColor=a78bfa) | AWS Cloud Technical Essentials | ✅ |
+| Area | Highlight | Business Value |
+|:---:|:---|:---|
+| ![AI](https://img.shields.io/badge/RAG-0a0d12?style=flat-square&logo=openai&logoColor=a78bfa) | AI-Powered Claims Search & Decision Support Platform | Faster claims document search, summarization, and adjuster support |
+| ![Fraud](https://img.shields.io/badge/Fraud_ML-0a0d12?style=flat-square&logoColor=5b9bd5) | Fraud Detection & Transaction Risk Analytics Platform | Better suspicious transaction identification and reduced review volume |
+| ![Data](https://img.shields.io/badge/Data_Engineering-0a0d12?style=flat-square&logo=apachespark&logoColor=a78bfa) | Pharma Supply Chain Data Warehouse & Reporting Platform | Stronger supply chain, manufacturing, inventory, and sales reporting |
+| ![Python](https://img.shields.io/badge/Python_Automation-0a0d12?style=flat-square&logo=python&logoColor=5b9bd5) | Banking Reporting & Process Automation Platform | Reduced manual reporting and improved operational workflow reliability |
 
 </div>
 
@@ -132,27 +151,34 @@ Currently deepening my expertise in **Information Systems** through an **M.S. at
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0d12,100:0d0b1a&height=3" width="100%"/>
 
 ```python
-analyst = {
+ai_ml_engineer = {
     "name"         : "Sahith Belide",
-    "role"         : "Data Analyst",
-    "experience"   : "8+ years",
-    "location"     : "Michigan, USA",
+    "role"         : "Senior AI/ML Engineer",
+    "experience"   : "7+ years",
+    "location"     : "United States",
 
-    "languages"    : ["Python", "SQL", "R"],
-    "warehousing"  : ["Snowflake", "BigQuery", "PostgreSQL", "MS SQL Server"],
+    "programming"  : ["Python", "SQL", "JavaScript", "FastAPI", "Flask", "REST APIs"],
 
-    "analysis"     : ["EDA", "Regression", "Classification", "Clustering",
-                      "Forecasting", "Hypothesis Testing", "Predictive Modeling",
-                      "Model Evaluation"],
+    "ml"           : ["Scikit-learn", "XGBoost", "PyTorch", "Feature Engineering",
+                      "Model Evaluation", "Drift Detection"],
 
-    "data_ops"     : ["ETL", "Data Modeling", "Data Validation", "Data Wrangling",
-                      "Query Optimization", "Data Warehousing", "Report Automation",
-                      "Data Pipelines", "Data Integration"],
+    "gen_ai_nlp"   : ["LLMs", "RAG", "Prompt Engineering", "LangChain",
+                      "Sentence Transformers", "OpenAI"],
 
-    "business"     : ["KPI Development", "Performance Analysis",
-                      "Stakeholder Management", "Data Storytelling",
-                      "Requirements Gathering", "Data-Driven Decision Making"],
+    "data_engineering": ["PySpark", "Apache Spark", "Kafka", "Airflow",
+                         "AWS Glue", "Snowflake", "Oracle", "PostgreSQL", "MySQL"],
 
-    "currently"    : "M.S. Information Systems @ Central Michigan University",
-    "open_to"      : ["Full-time roles", "Freelance projects", "Collaborations"],
+    "cloud_mlops"  : ["AWS SageMaker", "AWS S3", "Lambda", "CloudWatch",
+                      "Docker", "Kubernetes", "Jenkins", "Terraform",
+                      "MLflow", "GitHub Actions"],
+
+    "monitoring"   : ["Amazon OpenSearch", "Elasticsearch", "Prometheus",
+                      "Grafana", "LangSmith"],
+
+    "analytics"    : ["Tableau", "Power BI", "AWS QuickSight", "Excel",
+                      "Pandas", "NumPy", "Matplotlib", "Seaborn"],
+
+    "domains"      : ["Insurance", "Banking", "Pharmaceuticals"],
+    "currently"    : "Senior ML Engineer @ National General Insurance"
 }
+```
