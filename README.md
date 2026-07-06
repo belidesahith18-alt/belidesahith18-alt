@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0d12,50:1a0a2e,100:2d1b69&height=220&section=header&text=Sahith%20Belide&fontSize=58&fontColor=5b9bd5&fontAlignY=40&desc=Senior%20AI%2FML%20Engineer&descAlignY=62&descColor=a78bfa&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0d12,50:1a0a2e,100:2d1b69&height=220&section=header&text=Sai%20Sahith&fontSize=58&fontColor=5b9bd5&fontAlignY=40&desc=Senior%20AI%2FML%20Engineer&descAlignY=62&descColor=a78bfa&animation=fadeIn" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=5b9bd5&center=true&vCenter=true&width=650&lines=7%2B+Years+of+AI%2FML+Engineering+Experience;RAG+%7C+LLMs+%7C+Python+%7C+PySpark+%7C+FastAPI;Fraud+Detection+%7C+Data+Engineering+%7C+Cloud+Analytics;Building+Production-Focused+AI+Solutions" alt="Typing SVG" />
 
