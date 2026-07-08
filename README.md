@@ -9,7 +9,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0a0d12?style=for-the-badge&logo=linkedin&logoColor=5b9bd5)](https://linkedin.com)
 [![Email](https://img.shields.io/badge/Gmail-0a0d12?style=for-the-badge&logo=gmail&logoColor=5b9bd5)](mailto:sahithbelide18@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-0a0d12?style=for-the-badge&logo=github&logoColor=5b9bd5)](https://github.com)
-[![Phone](https://img.shields.io/badge/+1_(989)_621--2046-0a0d12?style=for-the-badge&logoColor=5b9bd5)](#)
+[![Phone](https://img.shields.io/badge/+1_(972)_379--9366-0a0d12?style=for-the-badge&logoColor=5b9bd5)](#)
 [![Location](https://img.shields.io/badge/United_States-0a0d12?style=for-the-badge&logoColor=5b9bd5)](#)
 
 <br/>
