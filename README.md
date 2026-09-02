@@ -20,7 +20,7 @@
 
 ---
 
-# AI ENGINEERING PROFILE
+# 🚀 AI ENGINEERING PROFILE
 
 Applied AI Engineer with **3+ years of experience** designing, developing, and deploying **Machine Learning and Generative AI solutions** across **healthcare and financial services**.
 
